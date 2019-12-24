@@ -1,4 +1,4 @@
-# Finding-Pi
+# Finding $\pi$
 
 Different approaches to estimate the value of Pi
 
